@@ -1,1 +1,1 @@
-# Mini-Projekt-Git
+# MiniProjektGit
